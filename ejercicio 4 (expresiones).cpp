@@ -8,7 +8,7 @@ int main() {
 
 	
 	c = b; // c = 5
-    b = a; // b = 10
+        b = a; // b = 10
 	a = c; // a = 5
 
 	std::cout << //variable
